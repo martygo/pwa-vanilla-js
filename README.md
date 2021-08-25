@@ -1,2 +1,3 @@
-# A-simple-pwa-in-Vanilla-JS
+# A simple PWA
+
 a simple PWA in Vanilla JS for beginners
